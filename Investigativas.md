@@ -39,7 +39,7 @@ forms could be introduced into their computer (Huang et al., 2018).
 
 *5. "El gran impacto del ransomware en las pymes"*
 
->
+>Estudio de casos especificos, donde algunas empresas medianas (pymes) resultan afectadas por este fenómeno y sus variantes más agresivas como la extorsión virtual o “ransomware”, fusión de las palabras ransom (rescate) y software.
 
 [Link](https://www.godaddy.com/resources/latam/stories/impacto-ransomware-pymes)
 

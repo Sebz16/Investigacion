@@ -27,3 +27,20 @@ forms could be introduced into their computer (Huang et al., 2018).
 >- **Trojan malware** is disguised as something it’s not. Users unknowingly download it, believing it to be legitimate software.
 
 [Link](https://www.linkedin.com/pulse/why-small-businesses-greater-risk-malware-attacks-be-cybersmart-0rn9e/)
+
+
+*4."Analysis and prevention techniques for ransomware attacks"*
+
+>This  research  project  is  focused  on  the  analysis  of  ransomware  attacks  and  ways  to counteract it. Ransomware is a type of malware that encrypts data making it inaccessible and  to  decrypt  it  the  cyberattackers  pay  a  ransom,  usually  economic
+
+[Link](https://revista-edwardsdeming.com/index.php/es/article/view/73/124)
+
+
+
+*5. "El gran impacto del ransomware en las pymes"*
+
+>
+
+[Link](https://www.godaddy.com/resources/latam/stories/impacto-ransomware-pymes)
+
+

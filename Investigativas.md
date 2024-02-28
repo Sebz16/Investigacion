@@ -1,6 +1,6 @@
 # PROYECTOS DE DETECCIÓN DE MALWARE CON CNN (REDES NEURONALES CONVOLUCIONALES)
 
-*1. "Image-based Malware Classification using Deep Convolutional
+* "Image-based Malware Classification using Deep Convolutional
 Neural Network and Transfer Learning"*
 
 [Link](https://dl.acm.org/doi/pdf/10.1145/3503047.3503081)

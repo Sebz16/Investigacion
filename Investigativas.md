@@ -58,10 +58,10 @@ forms could be introduced into their computer (Huang et al., 2018).
 
 *8. ¿Por qué las pequeñas empresas deben tomarse en serio la ciberseguridad?*
 
->-**Phishing**: un hacker envía un correo electrónico engañoso para que el destinatario entregue información privada, o para implementar software malicioso en un dispositivo o en la red de la víctima.
->-**Spear phishing**: una variante del phishing dirigido a una persona en particular, en la que el atacante se hace pasar por una persona conocida de la víctima.
->-**Sitios web falsos**: diseñados para engañar a los usuarios con ataques maliciosos o fraudulentos.
+>- **Phishing**: un hacker envía un correo electrónico engañoso para que el destinatario entregue información privada, o para implementar software malicioso en un dispositivo o en la red de la víctima.
+>- **Spear phishing**: una variante del phishing dirigido a una persona en particular, en la que el atacante se hace pasar por una persona conocida de la víctima.
+>- **Sitios web falsos**: diseñados para engañar a los usuarios con ataques maliciosos o fraudulentos.
 Suplantación de identidad telefónica: se produce cuando los estafadores cambian su identificador de llamadas para ocultar su identidad.
->-**Smishing**: una variante de phishing en la que se usan los teléfonos móviles para atacar la plataforma.
+>- **Smishing**: una variante de phishing en la que se usan los teléfonos móviles para atacar la plataforma.
 
 [Link](https://latam.kaspersky.com/resource-center/preemptive-safety/small-business-security)

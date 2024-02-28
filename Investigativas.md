@@ -20,10 +20,10 @@ forms could be introduced into their computer (Huang et al., 2018).
 
 <img src="https://github.com/Sebz16/Investigacion/assets/93724041/535c60e9-31ec-493f-a5c5-21a4a8ca2025" width="600" height="500" />
 
-*3. ""*
+*3. "Why small businesses are at greater risk of malware attacks?"*
 >- **Ransomware** works by grabbing your attention. It disables your company’s data using encryption until a financial ransom is paid.
-- **Spyware** collects information from targets without their knowledge. It’s unknowingly downloaded and installed onto your devices.
-- **Adware** displays intrusive advertisements that reappear when closed. It’s usually delivered as a high number of pop-ups that disrupt your systems.
-- **Trojan malware** is disguised as something it’s not. Users unknowingly download it, believing it to be legitimate software.
+>- **Spyware** collects information from targets without their knowledge. It’s unknowingly downloaded and installed onto your devices.
+>- **Adware** displays intrusive advertisements that reappear when closed. It’s usually delivered as a high number of pop-ups that disrupt your systems.
+>- **Trojan malware** is disguised as something it’s not. Users unknowingly download it, believing it to be legitimate software.
 
 [Link](https://www.linkedin.com/pulse/why-small-businesses-greater-risk-malware-attacks-be-cybersmart-0rn9e/)

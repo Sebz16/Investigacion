@@ -3,7 +3,7 @@
 *1. "Image-based Malware Classification using Deep Convolutional
 Neural Network and Transfer Learning"*
 
-Link: https://dl.acm.org/doi/pdf/10.1145/3503047.3503081
+[Link](https://dl.acm.org/doi/pdf/10.1145/3503047.3503081)
 
 *2. "THE ADOPTION OF CYBERSECURITY IN SMALL- TO MEDIUM-SIZED
 BUSINESSES: A CORRELATION STUDY"*

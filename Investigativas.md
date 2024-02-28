@@ -70,8 +70,8 @@ Suplantación de identidad telefónica: se produce cuando los estafadores cambia
 
 [Link](https://latam.kaspersky.com/resource-center/preemptive-safety/small-business-security)
 
-*9 . Cybersecurity Issues and Practices in a Cloud Context: A Comparison Amongst Micro, Small and Medium 
-The purpose ofthis research is to compare the critical cybersecurity threats and practices in the cloud context amongmicro, small, and medium enterprises. By conducting a survey among 289 micro, small and mediumsized enterprises in Australia, this study highlights the significant differences in their cloud securitypractices. It also concludes that future studies that focus on cybersecurity issues and practices in thecontext of cloud computing should pay attention to these differences.
+*9 . Cybersecurity Issues and Practices in a Cloud Context: A Comparison Amongst Micro, Small and Medium* 
+>The purpose ofthis research is to compare the critical cybersecurity threats and practices in the cloud context amongmicro, small, and medium enterprises. By conducting a survey among 289 micro, small and mediumsized enterprises in Australia, this study highlights the significant differences in their cloud securitypractices. It also concludes that future studies that focus on cybersecurity issues and practices in thecontext of cloud computing should pay attention to these differences.
 
 [https://arxiv.org/ftp/arxiv/papers/2111/2111.05993.pdf](https://arxiv.org/pdf/2111.05993.pdf)
 

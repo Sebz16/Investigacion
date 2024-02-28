@@ -65,3 +65,16 @@ Suplantación de identidad telefónica: se produce cuando los estafadores cambia
 >- **Smishing**: una variante de phishing en la que se usan los teléfonos móviles para atacar la plataforma.
 
 [Link](https://latam.kaspersky.com/resource-center/preemptive-safety/small-business-security)
+
+*9 . Cybersecurity Issues and Practices in a Cloud Context: A Comparison Amongst Micro, Small and Medium 
+The purpose ofthis research is to compare the critical cybersecurity threats and practices in the cloud context amongmicro, small, and medium enterprises. By conducting a survey among 289 micro, small and mediumsized enterprises in Australia, this study highlights the significant differences in their cloud securitypractices. It also concludes that future studies that focus on cybersecurity issues and practices in thecontext of cloud computing should pay attention to these differences.
+
+[https://arxiv.org/ftp/arxiv/papers/2111/2111.05993.pdf](https://arxiv.org/pdf/2111.05993.pdf)
+
+Table 1. Demographic characteristics of responding organisations
+
+<img src="https://github.com/Sebz16/Investigacion/assets/93724041/1e022ad1-cb67-4a15-9fb3-d110ac8920dd" width="600" height="500" />
+
+Table 2. Cloud security threats and vulnerabilities
+
+<img src="https://github.com/Sebz16/Investigacion/assets/93724041/56488491-ae4e-4879-b717-016aef940d18" width="600" height="500" />

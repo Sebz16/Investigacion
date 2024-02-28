@@ -1,1 +1,1 @@
-Competencias investigativas
+# TIPOS DE MALWARES EN LAS PEQUEÑASS EMPRESAS

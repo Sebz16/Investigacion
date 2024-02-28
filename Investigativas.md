@@ -18,8 +18,6 @@ forms could be introduced into their computer (Huang et al., 2018).
 [Link](https://media.proquest.com/media/hms/PFT/2/kgtgJ?_s=VTralaBxRMxJkwvIfCF5R6Rs%2BsQ%3D)
 
 
-<img src="https://github.com/Sebz16/Investigacion/assets/93724041/535c60e9-31ec-493f-a5c5-21a4a8ca2025" width="600" height="500" />
-
 *3. "Why small businesses are at greater risk of malware attacks?"*
 >- **Ransomware** works by grabbing your attention. It disables your company’s data using encryption until a financial ransom is paid.
 >- **Spyware** collects information from targets without their knowledge. It’s unknowingly downloaded and installed onto your devices.

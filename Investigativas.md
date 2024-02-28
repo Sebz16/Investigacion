@@ -19,4 +19,4 @@ forms could be introduced into their computer (Huang et al., 2018).
 
 ![image](https://github.com/Sebz16/Investigacion/assets/93724041/535c60e9-31ec-493f-a5c5-21a4a8ca2025)
 
-<img src="[http://....jpg](https://github.com/Sebz16/Investigacion/assets/93724041/535c60e9-31ec-493f-a5c5-21a4a8ca2025)https://github.com/Sebz16/Investigacion/assets/93724041/535c60e9-31ec-493f-a5c5-21a4a8ca2025" width="200" height="200" />
+<img src="https://github.com/Sebz16/Investigacion/assets/93724041/535c60e9-31ec-493f-a5c5-21a4a8ca2025" width="200" height="200" />

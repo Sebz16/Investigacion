@@ -43,4 +43,25 @@ forms could be introduced into their computer (Huang et al., 2018).
 
 [Link](https://www.godaddy.com/resources/latam/stories/impacto-ransomware-pymes)
 
+*6. "Why small businesses are at greater risk of malware attacks?"*
+>- **Ransomware** works by grabbing your attention. It disables your company’s data using encryption until a financial ransom is paid.
+>- **Spyware** collects information from targets without their knowledge. It’s unknowingly downloaded and installed onto your devices.
+>- **Adware** displays intrusive advertisements that reappear when closed. It’s usually delivered as a high number of pop-ups that disrupt your systems.
+>- **Trojan malware** is disguised as something it’s not. Users unknowingly download it, believing it to be legitimate software.
 
+[Link](https://www.linkedin.com/pulse/why-small-businesses-greater-risk-malware-attacks-be-cybersmart-0rn9e/)
+
+*7. "Which cyber attacks most commonly target small businesses?"*
+>Ese informe encontró que no había muchas diferencias en los tipos de amenazas que enfrentan las PYMES y aquellas que amenazan a las organizaciones más grandes. El ransomware y las credenciales robadas son grandes problemas para casi todo el mundo. Sin embargo, el phishing y el malware móvil sí aparecen como problemas mayores para las organizaciones más pequeñas. Esto, tal vez, refleja una mayor dependencia de las personas para frustrar la ingeniería social en las PYMES y una mayor dependencia de múltiples dispositivos para el acceso a TI de los terminales.
+
+[Link](https://umbrella.cisco.com/blog/which-cyber-attacks-most-commonly-target-small-businesses)
+
+*8. ¿Por qué las pequeñas empresas deben tomarse en serio la ciberseguridad?*
+
+>**Phishing**: un hacker envía un correo electrónico engañoso para que el destinatario entregue información privada, o para implementar software malicioso en un dispositivo o en la red de la víctima.
+>**Spear phishing**: una variante del phishing dirigido a una persona en particular, en la que el atacante se hace pasar por una persona conocida de la víctima.
+>**Sitios web falsos**: diseñados para engañar a los usuarios con ataques maliciosos o fraudulentos.
+Suplantación de identidad telefónica: se produce cuando los estafadores cambian su identificador de llamadas para ocultar su identidad.
+>**Smishing**: una variante de phishing en la que se usan los teléfonos móviles para atacar la plataforma.
+
+[Link](https://latam.kaspersky.com/resource-center/preemptive-safety/small-business-security)

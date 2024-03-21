@@ -14,13 +14,13 @@ Esto se puede visualizar como una imagen en escala de grises en el rango [0,255]
 es fijo y se permite que la altura varíe según el tamaño del archivo.
 
 <img src="https://bbs.kanxue.com/upload/attach/202202/835440_NFBZ6TBM3993Z36.jpg" width="600" height="200" />
-<img src="https://bbs.kanxue.com/upload/attach/202202/835440_UYUB8CGVDBBNCJC.jpg" width="300" height="700" />
+<img src="https://bbs.kanxue.com/upload/attach/202202/835440_UYUB8CGVDBBNCJC.jpg" width="500" height="700" />
 
 Abajo se muestra una imagen de ejemplo de un *Trojan downloader*, *Dontovo A*, que descarga y ejecuta archivos arbitrarios. 
 Es interesante observar que en muchos casos, diferentes secciones (fragmentos binarios) del malware exhiben texturas
 de imagen distintivas. Se puede encontrar una taxonomía detallada de varios fragmentos binarios primitivos y su visualización como imágenes
 en escala de grises.
-<img src="https://bbs.kanxue.com/upload/attach/202202/835440_W2AXHCUQJDXDWAN.jpg" width="300" height="700" />
+<img src="https://bbs.kanxue.com/upload/attach/202202/835440_W2AXHCUQJDXDWAN.jpg" width="500" height="700" />
 
 La sección .text contiene el código ejecutable. En la figura, podemos ver que la primera parte de la sección .text contiene el código cuya textura
 es de grano fino. El resto se rellena con ceros (negros) que indican un relleno de ceros al final de esta sección. La siguiente sección .data contiene 

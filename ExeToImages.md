@@ -20,6 +20,7 @@ Abajo se muestra una imagen de ejemplo de un *Trojan downloader*, *Dontovo A*, q
 Es interesante observar que en muchos casos, diferentes secciones (fragmentos binarios) del malware exhiben texturas
 de imagen distintivas. Se puede encontrar una taxonomía detallada de varios fragmentos binarios primitivos y su visualización como imágenes
 en escala de grises.
+
 <img src="https://bbs.kanxue.com/upload/attach/202202/835440_W2AXHCUQJDXDWAN.jpg" width="400" height="500" />
 
 La sección .text contiene el código ejecutable. En la figura, podemos ver que la primera parte de la sección .text contiene el código cuya textura
